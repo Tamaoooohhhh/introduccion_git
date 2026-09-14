@@ -7,7 +7,7 @@ Proyecto básico realizado a partir de la enseñanza de cero dentro de las herra
 - README.md
 - calcularSalario.py
 
-# Autor: Mateo Tamayo Hincapié. 🐍
+# Autor: Mateo Tamayo Hincapié. 🐍d
 
 
 
