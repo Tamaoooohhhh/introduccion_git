@@ -8,7 +8,7 @@ Proyecto básico realizado a partir de la enseñanza de cero dentro de las herra
 - calcularSalario.py
 - ciclo_hola
 
-# Autor: Mateo Tamayo Hincapié. 🐍d
+# Autor: Mateo Tamayo Hincapié. 🐍
 
 
 
