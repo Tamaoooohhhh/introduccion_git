@@ -2,8 +2,8 @@
 
 Proyecto básico realizado a partir de la enseñanza de cero dentro de las herramientas git y github.
 
-# Archivos
+# Archivos del proyecto
 
-README.md
-calcularsalario.py
+- README.md
+- calcularSalario.py
 
